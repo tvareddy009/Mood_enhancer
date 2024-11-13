@@ -3,3 +3,4 @@ langchain
 streamlit
 requests
 python-dotenv
+streamlit_chat
